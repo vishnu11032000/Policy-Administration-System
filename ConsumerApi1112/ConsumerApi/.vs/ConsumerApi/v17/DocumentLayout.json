@@ -1,0 +1,1017 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\consumerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\consumerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\policyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\policyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\policycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\policycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\consumerpolicyrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\consumerpolicyrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\businessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\businessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\iquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\iquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\consumerbusinessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\consumerbusinessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\iconsumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\iconsumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\iconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\iconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\businessinputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\businessinputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\businessupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\businessupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\quotescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\quotescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\quotesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\quotesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\quotesrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\quotesrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\request\\createpolicyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\request\\createpolicyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\quotesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\quotesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\bussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\bussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapitests\\consumerapitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03A5160B-2703-4E5C-8FC8-DC25645AFDA5}|consumerApiTests\\consumerApiTests.csproj|solutionrelative:consumerapitests\\consumerapitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\consumerpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\consumerpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\consumerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\consumerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\quotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\quotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\quotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\quotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\consumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\consumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\ibusinessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\ibusinessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\services\\iquotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\services\\iquotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\repository\\iconsumerpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\repository\\iconsumerpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\agentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\agentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\agentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\agentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\response\\quotedetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\response\\quotedetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\request\\issuepolicyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\request\\issuepolicyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\response\\policydetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\response\\policydetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\response\\consumerbusinessdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\response\\consumerbusinessdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\payload\\response\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\payload\\response\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\consumerbusinessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\consumerbusinessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\consumerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\consumerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\models\\propertymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\models\\propertymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917150012_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917145132_newMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916053501_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916052337_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240914214039_vishnu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|c:\\users\\user\\onedrive\\desktop\\capstone project\\consumerapi1112\\consumerapi\\consumerapi\\migrations\\20240918104007_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3042B1B8-8C70-4260-BDDE-0FB1AD06D4D4}|ConsumerApi\\ConsumerApi.csproj|solutionrelative:consumerapi\\migrations\\20240918104007_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsumerApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\appsettings.json",
+              "RelativeToolTip": "ConsumerApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T21:08:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsumerPolicyRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\ConsumerPolicyRepositoryTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\ConsumerPolicyRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\ConsumerPolicyRepositoryTests.cs",
+              "RelativeToolTip": "consumerApiTests\\ConsumerPolicyRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:17:09.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\PolicyControllerTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\PolicyControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\PolicyControllerTests.cs",
+              "RelativeToolTip": "consumerApiTests\\PolicyControllerTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:12:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolicyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\PolicyServiceTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\PolicyServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\PolicyServiceTests.cs",
+              "RelativeToolTip": "consumerApiTests\\PolicyServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:32:07.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsumerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\ConsumerController.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Controllers\\ConsumerController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\ConsumerController.cs",
+              "RelativeToolTip": "ConsumerApi\\Controllers\\ConsumerController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAwwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:57:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:20:47.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumerApi.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\ConsumerApi.csproj",
+              "RelativeDocumentMoniker": "ConsumerApi\\ConsumerApi.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\ConsumerApi.csproj",
+              "RelativeToolTip": "ConsumerApi\\ConsumerApi.csproj",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T12:37:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ConsumerApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:48:37.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\ConsumerService.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:09:52.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\BusinessRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\BusinessRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\BusinessRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\BusinessRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:02:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\UpdateRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\UpdateRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\UpdateRequest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:24:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\PolicyService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\PolicyService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\PolicyService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:57:31.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsumerBusinessResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerBusinessResponse.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\ConsumerBusinessResponse.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerBusinessResponse.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\ConsumerBusinessResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:26:43.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQuotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IQuotesRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IQuotesRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IQuotesRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IQuotesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:52:26.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IConsumerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IConsumerRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IConsumerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IConsumerRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IConsumerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:01:35.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IAuthRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:17:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Program.cs",
+              "RelativeToolTip": "ConsumerApi\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:08:07.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "ConsumerApi\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:39:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:19:03.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:20:00.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IConsumerService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\IConsumerService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IConsumerService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\IConsumerService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:08:52.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BusinessUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\BusinessUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\BusinessUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\BusinessUpdateRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\BusinessUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:26:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusinessInputRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\BusinessInputRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\BusinessInputRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\BusinessInputRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\BusinessInputRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:25:27.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IPolicyService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\IPolicyService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IPolicyService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\IPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:28:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuotesServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesServiceTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\QuotesServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesServiceTests.cs",
+              "RelativeToolTip": "consumerApiTests\\QuotesServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:56:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "ConsumerApi\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:45:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuotesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesControllerTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\QuotesControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesControllerTests.cs",
+              "RelativeToolTip": "consumerApiTests\\QuotesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:00:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuotesRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesRepositoryTests.cs",
+              "RelativeDocumentMoniker": "consumerApiTests\\QuotesRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\QuotesRepositoryTests.cs",
+              "RelativeToolTip": "consumerApiTests\\QuotesRepositoryTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:25:20.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreatePolicyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Request\\CreatePolicyRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Request\\CreatePolicyRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Request\\CreatePolicyRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Request\\CreatePolicyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:56:19.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\PropertyRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\PropertyRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:05:57.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuotesMaster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\QuotesMaster.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\QuotesMaster.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\QuotesMaster.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\QuotesMaster.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:42:17.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bussiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Bussiness.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\Bussiness.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Bussiness.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\Bussiness.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:49:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "consumerApiTests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\consumerApiTests.csproj",
+              "RelativeDocumentMoniker": "consumerApiTests\\consumerApiTests.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\consumerApiTests\\consumerApiTests.csproj",
+              "RelativeToolTip": "consumerApiTests\\consumerApiTests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T13:16:16.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConsumerPolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\ConsumerPolicyRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\ConsumerPolicyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\ConsumerPolicyRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\ConsumerPolicyRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:07:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConsumerApi.http",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\ConsumerApi.http",
+              "RelativeDocumentMoniker": "ConsumerApi\\ConsumerApi.http",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\ConsumerApi.http",
+              "RelativeToolTip": "ConsumerApi\\ConsumerApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-16T12:28:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "ConsumerApi\\Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:44:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ConsumerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\ConsumerRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\ConsumerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\ConsumerRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\ConsumerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:05:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QuotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\QuotesRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\QuotesRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\QuotesRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\QuotesRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:51:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IBusinessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IBusinessRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IBusinessRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IBusinessRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IBusinessRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:00:42.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QuotesService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\QuotesService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\QuotesService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\QuotesService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\QuotesService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:49:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IPropertyRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA3wAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:02:07.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IQuotesService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IQuotesService.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Services\\IQuotesService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Services\\IQuotesService.cs",
+              "RelativeToolTip": "ConsumerApi\\Services\\IQuotesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:55:38.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IConsumerPolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IConsumerPolicyRepository.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Repository\\IConsumerPolicyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Repository\\IConsumerPolicyRepository.cs",
+              "RelativeToolTip": "ConsumerApi\\Repository\\IConsumerPolicyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:11:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AgentRegister.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\AgentRegister.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\AgentRegister.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\AgentRegister.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\AgentRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:47:39.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AgentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\AgentLogin.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\AgentLogin.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\AgentLogin.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\AgentLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:47:29.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Agent.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:46:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "QuoteDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\QuoteDetailsResponse.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Response\\QuoteDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\QuoteDetailsResponse.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Response\\QuoteDetailsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IssuePolicyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Request\\IssuePolicyRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Request\\IssuePolicyRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Request\\IssuePolicyRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Request\\IssuePolicyRequest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:19.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PolicyDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\PolicyDetailsResponse.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Response\\PolicyDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\PolicyDetailsResponse.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Response\\PolicyDetailsResponse.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:52.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConsumerBusinessDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\ConsumerBusinessDetails.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Response\\ConsumerBusinessDetails.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\ConsumerBusinessDetails.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Response\\ConsumerBusinessDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:33.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Payload\\Response\\MessageResponse.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Payload\\Response\\MessageResponse.cs",
+              "RelativeToolTip": "ConsumerApi\\Payload\\Response\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Consumer.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\Consumer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Consumer.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\Consumer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:49:16.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ConsumerBusinessRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerBusinessRequest.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\ConsumerBusinessRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerBusinessRequest.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\ConsumerBusinessRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:23:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ConsumerPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerPolicy.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\ConsumerPolicy.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\ConsumerPolicy.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\ConsumerPolicy.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA8wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:13:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\Property.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\Property.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:50:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PropertyMaster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\PropertyMaster.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Models\\PropertyMaster.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Models\\PropertyMaster.cs",
+              "RelativeToolTip": "ConsumerApi\\Models\\PropertyMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:50:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240918104007_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240918104007_Migration1.cs",
+              "RelativeDocumentMoniker": "ConsumerApi\\Migrations\\20240918104007_Migration1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Capstone Project\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240918104007_Migration1.cs",
+              "RelativeToolTip": "ConsumerApi\\Migrations\\20240918104007_Migration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:40:08.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240917150012_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917150012_Migration1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917150012_Migration1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917150012_Migration1.cs",
+              "RelativeToolTip": "..\\..\\..\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917150012_Migration1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:00:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240917145132_newMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917145132_newMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917145132_newMigration.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917145132_newMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\New folder\\ConsumerApi1112\\ConsumerApi\\ConsumerApi\\Migrations\\20240917145132_newMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:51:32.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240916052337_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916052337_migration1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916052337_migration1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916052337_migration1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916052337_migration1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:23:37.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240916053501_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916053501_migration1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916053501_migration1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916053501_migration1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240916053501_migration1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:35:01.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240914214039_vishnu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240914214039_vishnu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240914214039_vishnu.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240914214039_vishnu.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ConsumerApi\\ConsumerApi\\Migrations\\20240914214039_vishnu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:40:39.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

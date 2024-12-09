@@ -1,0 +1,240 @@
+[
+  {
+    "ContainingType": "ConsumerApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ConsumerApi.Models.AgentLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ConsumerApi.Models.AgentRegister",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "CreateBusinessProperty",
+    "RelativePath": "api/Consumer/createBusinessProperty",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputRequest",
+        "Type": "ConsumerApi.Models.BusinessInputRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "CreateConsumerBusiness",
+    "RelativePath": "api/Consumer/createConsumerBusiness",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputRequest",
+        "Type": "ConsumerApi.Models.ConsumerBusinessRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "UpdateBusinessProperty",
+    "RelativePath": "api/Consumer/updateBusinessProperty",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRequest",
+        "Type": "ConsumerApi.Models.BusinessUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "UpdateConsumerBusiness",
+    "RelativePath": "api/Consumer/updateConsumerBusiness",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRequest",
+        "Type": "ConsumerApi.Models.UpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "ViewConsumerBusinessResponse",
+    "RelativePath": "api/Consumer/viewConsumerBusiness",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumerId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.ConsumerController",
+    "Method": "ViewConsumerProperty",
+    "RelativePath": "api/Consumer/viewConsumerProperty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumerId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PolicyModule.Controllers.PolicyController",
+    "Method": "CreatePolicyAsync",
+    "RelativePath": "api/Policy/createPolicy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPolicyRequest",
+        "Type": "ConsumerApi.Payload.Request.CreatePolicyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PolicyModule.Controllers.PolicyController",
+    "Method": "IssuePolicyAsync",
+    "RelativePath": "api/Policy/issuePolicy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "issuePolicyRequest",
+        "Type": "ConsumerApi.Payload.Request.IssuePolicyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PolicyModule.Controllers.PolicyController",
+    "Method": "ViewPolicyAsync",
+    "RelativePath": "api/Policy/viewPolicy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumerId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "policyId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.QuotesController",
+    "Method": "GetAllQuotes",
+    "RelativePath": "Quotes/getAllQuotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ConsumerApi.Models.QuotesMaster, ConsumerApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConsumerApi.Controllers.QuotesController",
+    "Method": "GetQuotes",
+    "RelativePath": "Quotes/getQuotesForPolicy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "businessValue",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyValue",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    background-color: white; /* Set background color to white */
+    padding: 20px; /* Optional: Add padding for spacing */
+}
+
+.about-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.about-image {
+    flex: 1;
+}
+
+.about-image img {
+    max-width: 80%; /* Decrease the maximum width of the image */
+    height: 50%;
+    border-radius: 5px; /* Optional: Add some rounding to the corners */
+}

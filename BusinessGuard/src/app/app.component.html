@@ -1,0 +1,88 @@
+<!-- <div style="display: flex; flex-direction: column; min-height: 100vh;">
+    <header class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+        <div class="container">
+            <div class="navbar-header">
+                <h4 style="color: aliceblue; font-family: 'Arial';">BusinessGuard</h4>
+            </div>
+
+            <div class="d-flex align-items-center">
+                <ul class="navbar-nav ml-auto" routerLinkActive="active">
+
+                    <li *ngIf = "!isLoggedIn" class="nav-item">
+                        <a href="/home" class="nav-link" routerLink="home">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="/about" class="nav-link" routerLink="about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/contact" class="nav-link" routerLink="contact">Contact</a>
+                    </li>
+                    <li *ngIf = "!isLoggedIn" class="nav-item" >
+                        <a href="/login" class="nav-link" routerLink="login">Login</a>
+                    </li>
+                    
+                    <li *ngIf = "isLoggedIn" class="nav-item">
+                        <a href="/main" class="nav-link" routerLink="main">Logout</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <main style="flex-grow: 1;">
+        <router-outlet></router-outlet>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3 sticky-bottom">
+        <div class="container">
+            <p>&copy; 2024 Polacy Administration System. All Rights Reserved.</p>
+        </div>
+    </footer>
+</div> -->
+
+
+
+<div style="display: flex; flex-direction: column; min-height: 100vh;">
+    <header class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+        <div class="container">
+            <div class="navbar-header">
+                <h4 style="color: aliceblue; font-family: 'Arial';">BusinessGuard</h4>
+            </div>
+
+            <div class="d-flex align-items-center">
+                <ul class="navbar-nav ml-auto" routerLinkActive="active">
+                    <li *ngIf="isLoggedIn" class="nav-item">
+                        <a href="/home" class="nav-link" routerLink="home">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="/about" class="nav-link" routerLink="about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/contact" class="nav-link" routerLink="contact">Contact</a>
+                    </li>
+                    
+                    <li *ngIf="!isLoggedIn" class="nav-item">
+                        <a href="/login" class="nav-link" routerLink="login">Login</a>
+                    </li>
+                    
+                    <li *ngIf="isLoggedIn" class="nav-item">
+                        <a href="javascript:void(0)" class="nav-link" (click)="logout()">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <main style="flex-grow: 1;">
+        <router-outlet></router-outlet>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3 sticky-bottom">
+        <div class="container">
+            <p>&copy; 2024 Policy Administration System. All Rights Reserved.</p>
+        </div>
+    </footer>
+</div>

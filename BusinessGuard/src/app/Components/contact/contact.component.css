@@ -1,0 +1,22 @@
+.contact-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px; 
+    background-color: white; 
+    background-color: white;
+    color: black; 
+    text-align: left;
+}
+
+.contact-info {
+    margin: 0;
+}
+
+.contact-info a {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}

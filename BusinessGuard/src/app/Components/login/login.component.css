@@ -1,0 +1,43 @@
+
+section.vh-90 {
+    background-image: url("assets\image4.avif"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+section.vh-90 .content {
+   
+    padding: 2rem; 
+    border-radius: 1rem; 
+}
+section.vh-90 .btn-outline-light {
+    background-color: #555; 
+    color: #fff; 
+    border-color: #fff;
+}
+
+section.vh-90 .btn-outline-light:hover {
+    background-color: #666; 
+    color: #fff; 
+    border-color: #666;
+}
+
+.form-outline input.form-control {
+    background-color: #555; 
+    color: #fff;
+    border: none; 
+}
+
+.form-outline input.form-control::placeholder {
+    color: rgba(255, 255, 255, 0.7); 
+}
+
+.form-label {
+    color: #fff; 
+}
+
+.alert {
+    background-color: #900; 
+    color: #fff; 
+}
